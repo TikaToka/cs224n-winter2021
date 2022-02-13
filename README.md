@@ -1,7 +1,8 @@
-# cs224n-winter2022
+# cs224n-winter2021
  cs224n self study repository
 
-http://web.stanford.edu/class/cs224n/
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/
+https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 
 ## Progress
 
